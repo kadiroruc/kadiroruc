@@ -1,6 +1,6 @@
 ### Hi there, I am Abdulkadir👋
 
-
+<br><br>
 
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/92309764/174135565-5e02b313-49fa-4ef5-ad3c-f08ca4793391.gif" width="200"/>
@@ -8,10 +8,10 @@
 
 
 <div id="badges"  align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/)">
+  <a href="https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
-  <a href="[your-twitter-URL](https://twitter.com/Kadir_587?t=WwHrDKuT-zgtyq2T90LTQw&s=09)">
+  <a href="https://twitter.com/Kadir_587?t=WwHrDKuT-zgtyq2T90LTQw&s=09">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

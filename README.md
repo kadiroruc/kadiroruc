@@ -1,9 +1,11 @@
 ### Hi there, I am Abdulkadir👋
 
 
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif" width="200"/>
+  <img src="https://user-images.githubusercontent.com/92309764/174135565-5e02b313-49fa-4ef5-ad3c-f08ca4793391.gif" width="200"/>
 </div>
+
 
 <div id="badges"  align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/)">

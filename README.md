@@ -22,11 +22,9 @@
   <br><br>
   
 ---
-  <div align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="450"/>
-  </div>
+ 
 
----
+
 
 ### :man_technologist: About Me :
  
@@ -51,8 +49,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  
+ ---
 
+ <div align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="450"/>
+  </div>
     
-    
+
   
 </div>

@@ -36,7 +36,6 @@
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🌆 I like to travel new places. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🌄 I take landscape photos. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🎵 Music is part of my life. <br>
-  - 📱 2022 Goals: Mobile Apps for Android
   
 
 ---

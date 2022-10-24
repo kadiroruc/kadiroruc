@@ -29,7 +29,8 @@
 ### :man_technologist: About Me :
  
   - :school: I am a student at Bursa Technical University from Turkey. 
-  - <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20">  I am currently learning Java.
+  - <img src="https://media.giphy.com/media/FLh0clsMqjbLB9jISi/giphy.gif" width="20"> I have C and Java knowledge.
+  - <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20">  I am currently learning JavaScript.
   - 📬 To reach me: kadiroruc587@gmail.com and  [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/)
   - ⚡ Fun fact: 🏓 I am a table tennis player. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;⭐ I like to try and learn new things. <br>
@@ -48,6 +49,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   
  ---
 

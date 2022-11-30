@@ -30,7 +30,7 @@
  
   - :school: I am a student at Bursa Technical University from Turkey. 
   - <img src="https://media.giphy.com/media/FLh0clsMqjbLB9jISi/giphy.gif" width="20"> I have C and Java knowledge.
-  - <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20">  I am currently learning JavaScript.
+  - <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20">  I am currently learning Swift.
   - 📬 To reach me: kadiroruc587@gmail.com and  [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/)
   - ⚡ Fun fact: 🏓 I am a table tennis player. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;⭐ I like to try and learn new things. <br>

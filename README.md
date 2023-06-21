@@ -1,5 +1,5 @@
 ### Hi there, I am Abdulkadir👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadiroruc&label=Profile%20views&color=ff0f32&style=flat" alt="kadiroruc" /> </p>
+
 
 <br><br>
 
@@ -25,7 +25,7 @@
 ---
  
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadiroruc&label=Profile%20views&color=ff0f32&style=flat" alt="kadiroruc" /></p>
 
 ### :man_technologist: About Me :
  

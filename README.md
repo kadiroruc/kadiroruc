@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
-  <a href="https://twitter.com/Kadir_587?t=WwHrDKuT-zgtyq2T90LTQw&s=09">
+  <a href="https://twitter.com/kadiroruc_">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

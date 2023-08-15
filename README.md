@@ -56,9 +56,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 
 ---
-### GitHub Stats :
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-    
-
+### GitHub Stats :    
   
 </div>

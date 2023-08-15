@@ -56,6 +56,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 
 ---
-### GitHub Stats :    
+<div align=center>
+  <img width=400 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kadiroruc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div
+
   
 </div>

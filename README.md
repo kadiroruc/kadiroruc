@@ -21,8 +21,9 @@
   </a>
 </div>
   <br><br>
-  
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadiroruc&label=Profile%20views&color=ff0f32&style=flat" alt="kadiroruc" /></p>
@@ -34,15 +35,15 @@
   - <img src="https://media.giphy.com/media/FLh0clsMqjbLB9jISi/giphy.gif" width="20"> I learned C, Java, CSS, Javascript, PHP and MySQL before.
   - 📬 To reach me: kadiroruc587@gmail.com and  [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/)
   - ⚡ Fun fact: 🏓 I am a table tennis player. <br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;⭐ I like to try and learn new things. <br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🤸‍♂️ I like to try and learn new things.  <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🌆 I like to travel new places. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🌄 I take landscape photos. <br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🎵 Music is part of my life. <br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🎵 Music is life itself. <br>
   
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tech:
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
@@ -55,7 +56,8 @@
     <img src="https://cdn.cdnlogo.com/logos/e/57/eclipse.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
 <div align=center>
   <img width=400 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kadiroruc&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div

@@ -1,26 +1,6 @@
-### Hi there, I am Abdulkadir👋
-
-
-<br><br>
-
-
-
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
+<img src="https://github.com/kadiroruc/kadiroruc/assets/92309764/76a03b87-f8bf-45b4-b0b0-fc1a76184099" width="850"/>
 </div>
-
-
-
-
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-  <a href="https://twitter.com/kadiroruc_">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
@@ -33,7 +13,7 @@
   - :school: I am a student at Bursa Technical University from Turkey.
   - <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif?cid=ecf05e47c0sfv41q6nyebtdfw4ztpj7oao1tdg3vczfp7e2e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20">  I am interested in Swift Language.
   - <img src="https://media.giphy.com/media/FLh0clsMqjbLB9jISi/giphy.gif" width="20"> I learned C, Java, CSS, Javascript, PHP and MySQL before.
-  - 📬 To reach me: kadiroruc587@gmail.com and  [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadir-oru%C3%A7-6aaa03223/)
+  - 📬 To reach me: kadiroruc587@gmail.com
   - ⚡ Fun fact: 🏓 I am a table tennis player. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🤸‍♂️ I like to try and learn new things.  <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🌆 I like to travel new places. <br>

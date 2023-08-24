@@ -12,7 +12,7 @@
  
   - :school: I am a student at Bursa Technical University from Turkey.
   - <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif?cid=ecf05e47c0sfv41q6nyebtdfw4ztpj7oao1tdg3vczfp7e2e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20">  I am interested in Swift Language.
-  - <img src="https://media.giphy.com/media/FLh0clsMqjbLB9jISi/giphy.gif" width="20"> I learned C, Java, CSS, Javascript, PHP and MySQL before.
+  [- <img src="https://media.giphy.com/media/FLh0clsMqjbLB9jISi/giphy.gif" width="20"> I learned C, Java, CSS, Javascript, PHP and MySQL before.]: #
   - 📬 To reach me: kadiroruc587@gmail.com
   - ⚡ Fun fact: 🏓 I am a table tennis player. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🤸‍♂️ I like to try and learn new things.  <br>

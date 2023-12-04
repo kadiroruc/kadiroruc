@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadiroruc&label=Profile%20views&color=ff0f32&style=flat" alt="kadiroruc" /></p>
 
-### :man_technologist: About Me :
+### About Me :
  
   - :school: I am a student at Bursa Technical University from Turkey.
   - <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif?cid=ecf05e47c0sfv41q6nyebtdfw4ztpj7oao1tdg3vczfp7e2e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20">  I am interested in Swift Language.
@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-### :hammer_and_wrench: Tech: 
+### Tech: 
 <div align="center">
  <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />   <img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" /> <img src="https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />

@@ -10,14 +10,16 @@
 
 ### About Me :
  
-  - :school: I am a student at Bursa Technical University from Turkey.
-  - <img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif?cid=ecf05e47c0sfv41q6nyebtdfw4ztpj7oao1tdg3vczfp7e2e&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20">  I am interested in Swift Language.
-  - 📬 To reach me: kadiroruc587@gmail.com
-  - ⚡ Fun fact: 🏓 I am a table tennis player. <br>
+  
+<img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="22" align="absbottom"/> I’m working on iOS development.<br>
+:school: I am a Computer Science student.<br>
+📬 To reach me: kadiroruc587@gmail.com
+    
+  <!-- - ⚡ Fun fact: 🏓 I am a table tennis player. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🤸‍♂️ I like to try and learn new things.  <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🌆 I like to travel new places. <br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🌄 I take landscape photos. <br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🎵 Music is life itself. <br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;🎵 Music is life itself. <br> -->
   
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
